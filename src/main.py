@@ -1,4 +1,5 @@
 """This module contains the main processing function for the Flask API."""
+
 import time
 import logging
 from helpers.system_logging import setup_logging
