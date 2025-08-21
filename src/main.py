@@ -50,3 +50,5 @@ if __name__ == '__main__':
     print(main(4))  # Valid input
     print(main('4'))  # Invalid input (should raise a Error)
     print(main(None))  # Invalid input (should raise a Error)
+
+#test
